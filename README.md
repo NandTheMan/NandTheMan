@@ -94,7 +94,7 @@
 <br/>
 
 <!-- replace yourusername -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=8E8E93)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandTheMan&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=8E8E93)
 
 <br/>
 
