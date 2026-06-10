@@ -96,6 +96,14 @@
 <!-- replace yourusername -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandTheMan&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=8E8E93)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NandTheMan&theme=transparent&hide_border=true&title_color=007AFF&text_color=8E8E93&icon_color=007AFF&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandTheMan&theme=transparent&hide_border=true&title_color=007AFF&text_color=8E8E93&ring=007AFF&fire=007AFF&currStreakNum=8E8E93)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NandTheMan&bg_color=transparent&color=8E8E93&line=007AFF&point=FFFFFF&hide_border=true)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=NandTheMan&color=007AFF&style=flat-square&label=Profile+Views)](https://github.com/NandTheMan)
+
 <br/>
 
 </div>
