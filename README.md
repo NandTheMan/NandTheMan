@@ -20,38 +20,38 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────┐
-│  ●  ●  ●   nandtheman — fish             │
-├──────────────────────────────────────────┤
-│                                          │
-│  ~ % whoami                              │
-│                                          │
-│    ml learner, slowly and deliberately   │
-│    designer by background                │
-│    creative design & machine learning    │
-│    bali-based, remote-ready              │
-│                                          │
+┌──────────────────────────────────────────────────────────────────┐
+│  ●  ●  ●                 nandtheman — fish                       │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  ~ % whoami                                                      │
+│                                                                  │
+│                ml learner, slowly and deliberatel                │
+│                designer by background                            │
+│                creative design & machine learning                │
+│                bali-based, remote-ready                          │
+│                                                                  │
 ```
 
 </div>
 
 <!-- ░░░ NOW — interactive ░░░ -->
-<!-- <details> -->
+<details>
 <summary><code>&nbsp;~ % cat now.txt&nbsp;</code></summary>
 
 <div align="center">
 
 ```
 │                                                                  │
-│    learning   machine learning from scratch 4 thesis             │
-│    building   a modular ai + classic machine learning assistant  │
-│    reading    one ml paper a week, no rush                       │
-│    exploring  integrating llm flexibility, w/ ml capability      │
+│   learning   machine learning from scratch 4 thesis              │
+│   building   a modular ai + classic machine learning assistant   │
+│   reading    one ml paper a week, no rush                        │
+│   exploring  integrating llm flexibility, w/ ml capability       │
 │                                                                  │
 ```
 
 </div>
-<!-- </details> -->
+</details>
 
 <!-- ░░░ STACK — interactive ░░░ -->
 <details>
@@ -60,26 +60,26 @@
 <div align="center">
 
 ```
-│                                                              │
-│    ml/ai/                                                    │
-|      python        the brain                                 |
-|      scikit-learn  classical ml, pipelines, evals            │
-│      pytorch       learning the fundamentals                 │
-│      langgraph     stateful agents, conversational flows     │
-│      huggingface   models, tokenizers,                       │
-│                                                              │
-│    frontend/                                                 │
-│      next.js       components, state, routing                │
-│      tailwind      utility-first, fast to iterate            │
-|      shadcn-ui     accessible components                     |
-│      figma         the face; design before code, always      │
-│                                                              │
-│    tools/                                                    │
-|      linux         arch/cachyos, hyprland                    |
-│      jupyter       exploration and experiments               │
-│      git           obviously                                 │
-│      vscode        home base                                 │
-│                                                              │
+│                                                                  │
+│       ml/ai/                                                     │
+|         python        the brain                                  |
+|         scikit-learn  classical ml, pipelines, evals             │
+│         pytorch       learning the fundamentals                  │
+│         langgraph     stateful agents, conversational flows      │
+│         huggingface   models, tokenizers,                        │
+│                                                                  │
+│       frontend/                                                  │
+│         next.js       components, state, routing                 │
+│         tailwind      utility-first, fast to iterate             │
+|         shadcn-ui     accessible components                      |
+│         figma         the face; design before code, always       │
+│                                                                  │
+│       tools/                                                     │
+|         linux         arch/cachyos, hyprland                     |
+│         jupyter       exploration and experiments                │
+│         git           obviously                                  │
+│         vscode        home base                                  │
+│                                                                  │
 ```
 
 </div>
@@ -96,8 +96,6 @@
 <!-- replace yourusername -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandTheMan&layout=compact&theme=transparent&hide_border=true&title_color=007AFF&text_color=8E8E93)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NandTheMan&theme=transparent&hide_border=true&title_color=007AFF&text_color=8E8E93&icon_color=007AFF&show_icons=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandTheMan&theme=transparent&hide_border=true&title_color=007AFF&text_color=8E8E93&ring=007AFF&fire=007AFF&currStreakNum=8E8E93)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NandTheMan&bg_color=transparent&color=8E8E93&line=007AFF&point=FFFFFF&hide_border=true)
@@ -113,10 +111,10 @@
 <div align="center">
 
 ```
-│                                          │
-│  ~ % _                                   │
-│                                          │
-└──────────────────────────────────────────┘
+│                                                                  │
+│  ~ % _                                                           │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
